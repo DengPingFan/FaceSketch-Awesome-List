@@ -1,17 +1,18 @@
 # FaceSketch-Awesome-List [![Awesome](README.assets/badge.svg)](https://awesome.re)
 ### News
 
-- [2021.08] **Deep Facial Synthesis: A New Challenge** is coming soon! [paper](#) [code](#)
+- [2021.08] **Deep Facial Synthesis: A New Challenge** is coming soon! [[paper](#)] [[code](#)]
 
 
 
 ## Categories:
 
-| [**Handcraft Feature based Facial Sketch Synthesis**](#Handcraft Feature based Facial Sketch Synthesis) |
+| Related Work                                                 |
 | :----------------------------------------------------------- |
-| [**General Neural Style Transfer**](#General Neural Style Transfer) |
-| [**Deep Image-to-Image Translation**](#Deep Image-to-Image Translation) |
-| [**Deep Image-to-Sketch Synthesis**](#Deep Image-to-Sketch Synthesis) |
+| [**Handcraft Feature based Facial Sketch Synthesis**](#Handcraft-Feature-based-Facial-Sketch-Synthesis) |
+| [**General Neural Style Transfer**](#General-Neural-Style-Transfer) |
+| [**Deep Image-to-Image Translation**](#Deep-Image-to-Image-Translation) |
+| [**Deep Image-to-Sketch Synthesis**](#Deep-Image-to-Sketch-Synthesis) |
 
 # Towards Image-to-Sketch Synthesis
 
