@@ -185,97 +185,97 @@
 
 ### 2021
 
-- <a name="LLS"></a>**[LLS]** Conditional Generative Modeling via Learning the Latent Space (**ICLR**) [[paper](https://arxiv.org/pdf/2010.03132.pdf)]
+- <a name="LLS"></a>**[LLS]** Conditional Generative Modeling via Learning the Latent Space (**ICLR**) [[paper](https://arxiv.org/pdf/2010.03132.pdf)] [[code](https://github.com/samgregoost/cGML)]
 
-- <a name="GH-feat"></a>**[GH-feat]** Generative Hierarchical Features from Synthesizing Images (**CVPR**) [[paper](https://arxiv.org/pdf/2007.10379.pdf)]
+- <a name="GH-feat"></a>**[GH-feat]** Generative Hierarchical Features from Synthesizing Images (**CVPR**) [[paper](https://arxiv.org/pdf/2007.10379.pdf)] [[code](https://github.com/genforce/ghfeat)]
 
-- <a name="Divco"></a>**[Divco]** DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network (**CVPR**) [[paper](https://arxiv.org/pdf/2103.07893.pdf)]
+- <a name="Divco"></a>**[Divco]** DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network (**CVPR**) [[paper](https://arxiv.org/pdf/2103.07893.pdf)] [[code](https://github.com/ruiliu-ai/DivCo)]
 
-- <a name="CoCosNet v2"></a>**[CoCosNet v2]** CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_CoCosNet_v2_Full-Resolution_Correspondence_Learning_for_Image_Translation_CVPR_2021_paper.pdf)]
+- <a name="CoCosNet v2"></a>**[CoCosNet v2]** CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_CoCosNet_v2_Full-Resolution_Correspondence_Learning_for_Image_Translation_CVPR_2021_paper.pdf)] [[code](https://github.com/microsoft/CoCosNet-v2)]
 
 ### 2020
 
-- <a name="UGATIT"></a>**[UGATIT]** U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (**ICLR**) [[paper](https://arxiv.org/pdf/1907.10830.pdf)]
+- <a name="UGATIT"></a>**[UGATIT]** U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (**ICLR**) [[paper](https://arxiv.org/pdf/1907.10830.pdf)] [[code](https://github.com/znxlwm/UGATIT-pytorch)]
 
 - <a name="CrossNet"></a>**[CrossNet]** CrossNet: Latent Cross-Consistency for Unpaired Image Translation (**WACV**) [[paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Sendik_CrossNet_Latent_Cross-Consistency_for_Unpaired_Image_Translation_WACV_2020_paper.pdf)]
 
-- <a name="StarGAN v2"></a>**[StarGAN v2]** StarGAN v2: Diverse Image Synthesis for Multiple Domains (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_StarGAN_v2_Diverse_Image_Synthesis_for_Multiple_Domains_CVPR_2020_paper.pdf)]
+- <a name="StarGAN v2"></a>**[StarGAN v2]** StarGAN v2: Diverse Image Synthesis for Multiple Domains (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_StarGAN_v2_Diverse_Image_Synthesis_for_Multiple_Domains_CVPR_2020_paper.pdf)] [[code](https://github.com/clovaai/stargan-v2)]
 
-- <a name="HiDT"></a>**[HiDT]** High-Resolution Daytime Translation Without Domain Labels (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Anokhin_High-Resolution_Daytime_Translation_Without_Domain_Labels_CVPR_2020_paper.pdf)]
+- <a name="HiDT"></a>**[HiDT]** High-Resolution Daytime Translation Without Domain Labels (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Anokhin_High-Resolution_Daytime_Translation_Without_Domain_Labels_CVPR_2020_paper.pdf)] [[code](https://github.com/saic-mdal/HiDT)]
 
-- <a name="NICE-GAN"></a>**[NICE-GAN]** Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Reusing_Discriminators_for_Encoding_Towards_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.pdf)]
+- <a name="NICE-GAN"></a>**[NICE-GAN]** Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Reusing_Discriminators_for_Encoding_Towards_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.pdf)] [[code](https://github.com/alpc91/NICE-GAN-pytorch)]
 
-- <a name="SEAN"></a>**[SEAN]** SEAN: Image Synthesis With Semantic Region-Adaptive Normalization (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_SEAN_Image_Synthesis_With_Semantic_Region-Adaptive_Normalization_CVPR_2020_paper.pdf)]
+- <a name="SEAN"></a>**[SEAN]** SEAN: Image Synthesis With Semantic Region-Adaptive Normalization (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_SEAN_Image_Synthesis_With_Semantic_Region-Adaptive_Normalization_CVPR_2020_paper.pdf)] [[code](https://github.com/ZPdesu/SEAN)]
 
-- <a name="CoCosNet"></a>**[CoCosNet]** Cross-Domain Correspondence Learning for Exemplar-Based Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Cross-Domain_Correspondence_Learning_for_Exemplar-Based_Image_Translation_CVPR_2020_paper.pdf)]
+- <a name="CoCosNet"></a>**[CoCosNet]** Cross-Domain Correspondence Learning for Exemplar-Based Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Cross-Domain_Correspondence_Learning_for_Exemplar-Based_Image_Translation_CVPR_2020_paper.pdf)] [[code](https://github.com/microsoft/CoCosNet)]
 
-- <a name="TSIT"></a>**[TSIT]** TSIT: A Simple and Versatile Framework for Image-to-Image Translation (**ECCV**) [[paper](https://arxiv.org/pdf/2007.12072.pdf)]
+- <a name="TSIT"></a>**[TSIT]** TSIT: A Simple and Versatile Framework for Image-to-Image Translation (**ECCV**) [[paper](https://arxiv.org/pdf/2007.12072.pdf)] [[code](https://github.com/EndlessSora/TSIT)]
 
-- <a name="DSMAP"></a>**[DSMAP]** Domain-Specific Mappings for Generative Adversarial Style Transfer (**ECCV**) [[paper](https://arxiv.org/pdf/2008.02198.pdf)]
+- <a name="DSMAP"></a>**[DSMAP]** Domain-Specific Mappings for Generative Adversarial Style Transfer (**ECCV**) [[paper](https://arxiv.org/pdf/2008.02198.pdf)] [[code](https://github.com/acht7111020/DSMAP)]
 
-- <a name="ACL-GAN"></a>**[ACL-GAN]** Unpaired Image-to-Image Translation using Adversarial Consistency Loss (**ECCV**) [[paper](https://arxiv.org/pdf/2003.04858.pdf)]
+- <a name="ACL-GAN"></a>**[ACL-GAN]** Unpaired Image-to-Image Translation using Adversarial Consistency Loss (**ECCV**) [[paper](https://arxiv.org/pdf/2003.04858.pdf)] [[code](https://github.com/hyperplane-lab/ACL-GAN)]
 
-- <a name="DRIT++"></a>**[DRIT++]** DRIT++: Diverse Image-to-Image Translation via Disentangled Representations (**IJCV**) [[paper](https://link.springer.com/content/pdf/10.1007/s11263-019-01284-z.pdf)]
+- <a name="DRIT++"></a>**[DRIT++]** DRIT++: Diverse Image-to-Image Translation via Disentangled Representations (**IJCV**) [[paper](https://link.springer.com/content/pdf/10.1007/s11263-019-01284-z.pdf)] [[code](https://github.com/HsinYingLee/DRIT)]
 
 ### 2019
 
-- <a name="EGSC-IT"></a>**[EGSC-IT]** Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency (**ICLR**) [[paper](https://arxiv.org/pdf/1805.11145.pdf)]
+- <a name="EGSC-IT"></a>**[EGSC-IT]** Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency (**ICLR**) [[paper](https://arxiv.org/pdf/1805.11145.pdf)] [[code](https://github.com/charliememory/EGSC-IT)]
 
 - <a name="HarmonicGAN"></a>**[HarmonicGAN]** Harmonic Unpaired Image-to-image Translation (**ICLR**) [[paper](https://arxiv.org/pdf/1902.09727.pdf)]
 
-- <a name="GDWCT"></a>**[GDWCT]** Image-To-Image Translation via Group-Wise Deep Whitening-And-Coloring Transformation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cho_Image-To-Image_Translation_via_Group-Wise_Deep_Whitening-And-Coloring_Transformation_CVPR_2019_paper.pdf)]
+- <a name="GDWCT"></a>**[GDWCT]** Image-To-Image Translation via Group-Wise Deep Whitening-And-Coloring Transformation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cho_Image-To-Image_Translation_via_Group-Wise_Deep_Whitening-And-Coloring_Transformation_CVPR_2019_paper.pdf)] [[code](https://github.com/WonwoongCho/GDWCT)]
 
-- <a name="SPADE"></a>**[SPADE]** Semantic Image Synthesis with Spatially-Adaptive Normalization (**CVPR**) [[paper](https://arxiv.org/pdf/1903.07291.pdf)]
+- <a name="SPADE"></a>**[SPADE]** Semantic Image Synthesis with Spatially-Adaptive Normalization (**CVPR**) [[paper](https://arxiv.org/pdf/1903.07291.pdf)] [[code](https://github.com/NVlabs/SPADE)]
 
 - <a name="TransGaGa"></a>**[TransGaGa]** TransGaGa: Geometry-Aware Unsupervised Image-To-Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_TransGaGa_Geometry-Aware_Unsupervised_Image-To-Image_Translation_CVPR_2019_paper.pdf)]
 
-- <a name="MS-GAN"></a>**[MS-GAN]** Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mao_Mode_Seeking_Generative_Adversarial_Networks_for_Diverse_Image_Synthesis_CVPR_2019_paper.pdf)]
+- <a name="MS-GAN"></a>**[MS-GAN]** Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mao_Mode_Seeking_Generative_Adversarial_Networks_for_Diverse_Image_Synthesis_CVPR_2019_paper.pdf)] [[code](https://github.com/HelenMao/MSGAN)]
 
-- <a name="Selection-GAN"></a>**[Selection-GAN]** Multi-Channel Attention Selection GAN With Cascaded Semantic Guidance for Cross-View Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Multi-Channel_Attention_Selection_GAN_With_Cascaded_Semantic_Guidance_for_Cross-View_CVPR_2019_paper.pdf)]
+- <a name="Selection-GAN"></a>**[Selection-GAN]** Multi-Channel Attention Selection GAN With Cascaded Semantic Guidance for Cross-View Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Multi-Channel_Attention_Selection_GAN_With_Cascaded_Semantic_Guidance_for_Cross-View_CVPR_2019_paper.pdf)] [[code](https://github.com/Ha0Tang/SelectionGAN)]
 
-- <a name="AttentionGAN"></a>**[AttentionGAN]** Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation (**IJCNN**) [[paper](https://ieeexplore.ieee.org/document/8851881)]
+- <a name="AttentionGAN"></a>**[AttentionGAN]** Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation (**IJCNN**) [[paper](https://ieeexplore.ieee.org/document/8851881)] [[code](https://github.com/Ha0Tang/AttentionGAN)]
 
-- <a name="FUNIT"></a>**[FUNIT]** Few-Shot Unsupervised Image-to-Image Translation (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Few-Shot_Unsupervised_Image-to-Image_Translation_ICCV_2019_paper.pdf)]
+- <a name="FUNIT"></a>**[FUNIT]** Few-Shot Unsupervised Image-to-Image Translation (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Few-Shot_Unsupervised_Image-to-Image_Translation_ICCV_2019_paper.pdf)] [[code](https://github.com/NVlabs/FUNIT)]
 
 ### 2018
 
-- <a name="Pix2pixHD"></a>**[Pix2pixHD]** High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_High-Resolution_Image_Synthesis_CVPR_2018_paper.pdf)]
+- <a name="Pix2pixHD"></a>**[Pix2pixHD]** High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_High-Resolution_Image_Synthesis_CVPR_2018_paper.pdf)] [[code](https://github.com/NVIDIA/pix2pixHD)]
 
 - <a name="DA-GAN"></a>**[DA-GAN]** DA-GAN: Instance-Level Image Translation by Deep Attention Generative Adversarial Networks (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DA-GAN_Instance-Level_Image_CVPR_2018_paper.pdf)]
 
-- <a name="StarGAN"></a>**[StarGAN]** StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)]
+- <a name="StarGAN"></a>**[StarGAN]** StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)] [[code](https://github.com/yunjey/StarGAN)]
 
 - <a name="ModularGAN"></a>**[ModularGAN]** Modular Generative Adversarial Networks (**ECCV**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Zhao_Modular_Generative_Adversarial_ECCV_2018_paper.pdf)]
 
-- <a name="GANimation"></a>**[GANimation]** Anatomically Coherent Facial Expression Synthesis (**ECCV**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Albert_Pumarola_Anatomically_Coherent_Facial_ECCV_2018_paper.pdf)]
+- <a name="GANimation"></a>**[GANimation]** Anatomically Coherent Facial Expression Synthesis (**ECCV**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Albert_Pumarola_Anatomically_Coherent_Facial_ECCV_2018_paper.pdf)] [[code](https://github.com/albertpumarola/GANimation)]
 
 - <a name="SCANs"></a>**[SCANs]** Unsupervised Image-to-Image Translation with Stacked Cycle-Consistent Adversarial Networks (**ECCV**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Minjun_Li_Unsupervised_Image-to-Image_Translation_ECCV_2018_paper.pdf)]
 
-- <a name="MUNIT"></a>**[MUNIT]** Multimodal Unsupervised Image-to-image Translation (**ECCV**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf)]
+- <a name="MUNIT"></a>**[MUNIT]** Multimodal Unsupervised Image-to-image Translation (**ECCV**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf)] [[code](https://github.com/NVlabs/MUNIT)]
 
-- <a name="Elegant"></a>**[Elegant]** ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes (**ECCV**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Taihong_Xiao_ELEGANT_Exchanging_Latent_ECCV_2018_paper.pdf)]
+- <a name="Elegant"></a>**[Elegant]** ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes (**ECCV**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Taihong_Xiao_ELEGANT_Exchanging_Latent_ECCV_2018_paper.pdf)] [[code](https://github.com/Prinsphield/ELEGANT)]
 
 ### 2017
 
-- <a name="Pix2pix"></a>**[Pix2pix]** Image-To-Image Translation With Conditional Adversarial Networks (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)]
+- <a name="Pix2pix"></a>**[Pix2pix]** Image-To-Image Translation With Conditional Adversarial Networks (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)] [[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 
-- <a name="SisGAN"></a>**[SisGAN]** Semantic Image Synthesis via Adversarial Learning (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Semantic_Image_Synthesis_ICCV_2017_paper.pdf)]
+- <a name="SisGAN"></a>**[SisGAN]** Semantic Image Synthesis via Adversarial Learning (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Semantic_Image_Synthesis_ICCV_2017_paper.pdf)] [[code](https://github.com/woozzu/dong_iccv_2017)]
 
-- <a name="CycleGAN"></a>**[CycleGAN]** Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)]
+- <a name="CycleGAN"></a>**[CycleGAN]** Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)] [[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 
-- <a name="DualGAN"></a>**[DualGAN]** DualGAN: Unsupervised Dual Learning for Image-To-Image Translation (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Yi_DualGAN_Unsupervised_Dual_ICCV_2017_paper.pdf)]
+- <a name="DualGAN"></a>**[DualGAN]** DualGAN: Unsupervised Dual Learning for Image-To-Image Translation (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Yi_DualGAN_Unsupervised_Dual_ICCV_2017_paper.pdf)] [[code](https://github.com/togheppi/DualGAN)]
 
-- <a name="DiscoGAN"></a>**[DiscoGAN]** Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (**ICML**) [[paper](http://proceedings.mlr.press/v70/kim17a/kim17a.pdf)]
+- <a name="DiscoGAN"></a>**[DiscoGAN]** Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (**ICML**) [[paper](http://proceedings.mlr.press/v70/kim17a/kim17a.pdf)] [[code](https://github.com/SKTBrain/DiscoGAN)]
 
 - <a name="DTN"></a>**[DTN]** Unsupervised Cross-domain Image Generation (**ICLR**) [[paper](https://arxiv.org/pdf/1611.02200.pdf)]
 
-- <a name="BicycleGAN"></a>**[BicycleGAN]** Toward Multimodal Image-to-Image Translation (**NeurIPS**) [[paper](https://papers.nips.cc/paper/2017/file/819f46e52c25763a55cc642422644317-Paper.pdf)]
+- <a name="BicycleGAN"></a>**[BicycleGAN]** Toward Multimodal Image-to-Image Translation (**NeurIPS**) [[paper](https://papers.nips.cc/paper/2017/file/819f46e52c25763a55cc642422644317-Paper.pdf)] [[code](https://github.com/junyanz/BicycleGAN)]
 
-- <a name="UNIT"></a>**[UNIT]** Unsupervised Image-to-Image Translation Networks (**NeurIPS**) [[paper](https://papers.nips.cc/paper/2017/file/dc6a6489640ca02b0d42dabeb8e46bb7-Paper.pdf)]
+- <a name="UNIT"></a>**[UNIT]** Unsupervised Image-to-Image Translation Networks (**NeurIPS**) [[paper](https://papers.nips.cc/paper/2017/file/dc6a6489640ca02b0d42dabeb8e46bb7-Paper.pdf)] [[code](https://github.com/mingyuliutw/UNIT)]
 
-- <a name="DistanceGAN"></a>**[DistanceGAN]** One-Sided Unsupervised Domain Mapping (**NeurIPS**) [[paper](https://papers.nips.cc/paper/2017/file/59b90e1005a220e2ebc542eb9d950b1e-Paper.pdf)]
+- <a name="DistanceGAN"></a>**[DistanceGAN]** One-Sided Unsupervised Domain Mapping (**NeurIPS**) [[paper](https://papers.nips.cc/paper/2017/file/59b90e1005a220e2ebc542eb9d950b1e-Paper.pdf)] [[code](https://github.com/sagiebenaim/DistanceGAN)]
 
-- <a name="TriangleGAN"></a>**[TriangleGAN]** Triangle Generative Adversarial Networks (**NeurIPS**) [[paper](https://papers.nips.cc/paper/2017/file/bbeb0c1b1fd44e392c7ce2fdbd137e87-Paper.pdf)]
+- <a name="TriangleGAN"></a>**[TriangleGAN]** Triangle Generative Adversarial Networks (**NeurIPS**) [[paper](https://papers.nips.cc/paper/2017/file/bbeb0c1b1fd44e392c7ce2fdbd137e87-Paper.pdf)] [[code](https://github.com/LiqunChen0606/Triangle-GAN)]
 
 
 
@@ -287,31 +287,31 @@
 
 ### 2020
 
-- <a name="APDrawing++"></a>**[APDrawing++]** Line Drawings for Face Portraits from Photos using Global and Local Structure based GANs (**TPAMI**) [[paper](https://ieeexplore.ieee.org/document/9069416)]
+- <a name="APDrawing++"></a>**[APDrawing++]** Line Drawings for Face Portraits from Photos using Global and Local Structure based GANs (**TPAMI**) [[paper](https://ieeexplore.ieee.org/document/9069416)] [[code](https://github.com/yiranran/APDrawingGAN2)]
 
-- <a name="UPDG"></a>**[UPDG]** Unpaired Portrait Drawing Generation via Asymmetric Cycle Mapping (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yi_Unpaired_Portrait_Drawing_Generation_via_Asymmetric_Cycle_Mapping_CVPR_2020_paper.pdf)]
+- <a name="UPDG"></a>**[UPDG]** Unpaired Portrait Drawing Generation via Asymmetric Cycle Mapping (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yi_Unpaired_Portrait_Drawing_Generation_via_Asymmetric_Cycle_Mapping_CVPR_2020_paper.pdf)] [[code](https://github.com/yiranran/Unpaired-Portrait-Drawing)]
 
 - <a name="WCR-GAN"></a>**[WCR-GAN]** Learning to Cartoonize Using White-Box Cartoon Representations (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_to_Cartoonize_Using_White-Box_Cartoon_Representations_CVPR_2020_paper.pdf)]
 
-- <a name="EdgeGAN"></a>**[EdgeGAN]** SketchyCOCO: Image Generation From Freehand Scene Sketches (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_SketchyCOCO_Image_Generation_From_Freehand_Scene_Sketches_CVPR_2020_paper.pdf)]
+- <a name="EdgeGAN"></a>**[EdgeGAN]** SketchyCOCO: Image Generation From Freehand Scene Sketches (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_SketchyCOCO_Image_Generation_From_Freehand_Scene_Sketches_CVPR_2020_paper.pdf)] [[code](https://github.com/sysu-imsl/EdgeGAN)]
 
-- <a name="DeepPS"></a>**[DeepPS]** Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches (**ECCV**) [[paper](https://arxiv.org/pdf/2001.02890.pdf)]
+- <a name="DeepPS"></a>**[DeepPS]** Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches (**ECCV**) [[paper](https://arxiv.org/pdf/2001.02890.pdf)] [[code](https://github.com/VITA-Group/DeepPS)]
 
-- <a name="DeepFaceDrawing"></a>**[DeepFaceDrawing]** DeepFaceDrawing: deep generation of face images from sketches (**TOG**) [[paper](https://dl.acm.org/doi/abs/10.1145/3386569.3392386)]
+- <a name="DeepFaceDrawing"></a>**[DeepFaceDrawing]** DeepFaceDrawing: deep generation of face images from sketches (**TOG**) [[paper](https://dl.acm.org/doi/abs/10.1145/3386569.3392386)] [[code](https://github.com/franknb/Drawing-to-Face)]
 
-- <a name="CA-GAN"></a>**[CA-GAN]** Toward Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs (**ITC**) [[paper](https://ieeexplore.ieee.org/document/9025751)]
+- <a name="CA-GAN"></a>**[CA-GAN]** Toward Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs (**ITC**) [[paper](https://ieeexplore.ieee.org/document/9025751)] [[code](https://github.com/fei-hdu/ca-gan)]
 
 - <a name="IDA-CycleGAN"></a>**[IDA-CycleGAN]** Identity-aware CycleGAN for face photo-sketch synthesis and recognition (**PR**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300558)]
 
 - <a name="IPAM-GAN"></a>**[IPAM-GAN]** An Identity-Preserved Model for Face Sketch-Photo Synthesis (**SPL**) [[paper](https://ieeexplore.ieee.org/document/9126135)]
 
-- <a name="MvDT"></a>**[MvDT]** Universal Face Photo-Sketch Style Transfer via Multiview Domain Translation (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9171460)]
+- <a name="MvDT"></a>**[MvDT]** Universal Face Photo-Sketch Style Transfer via Multiview Domain Translation (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9171460)] [[code](https://github.com/clpeng/UniversalFPSS)]
 
 
 
 ### 2019
 
-- <a name="PI-REC"></a>**[PI-REC]** PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain (**arXiv**) [[paper](https://arxiv.org/pdf/1903.10146.pdf)]
+- <a name="PI-REC"></a>**[PI-REC]** PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain (**arXiv**) [[paper](https://arxiv.org/pdf/1903.10146.pdf)] [[code](https://github.com/youyuge34/PI-REC)]
 
 - <a name="DLLRR"></a>**[DLLRR]** Deep Latent Low-Rank Representation for Face Sketch Synthesis (**TNNLS**) [[paper](https://ieeexplore.ieee.org/document/8621606)]
 
@@ -321,31 +321,31 @@
 
 - <a name="KT"></a>**[KT]** Face Photo-Sketch Synthesis via Knowledge Transfer (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2019/0147.pdf)]
 
-- <a name="im2pencil"></a>**[im2pencil]** Im2Pencil: Controllable Pencil Illustration from Photographs (**CVPR**) [[paper](https://arxiv.org/pdf/1903.08682.pdf)]
+- <a name="im2pencil"></a>**[im2pencil]** Im2Pencil: Controllable Pencil Illustration from Photographs (**CVPR**) [[paper](https://arxiv.org/pdf/1903.08682.pdf)] [[code](https://github.com/Yijunmaverick/Im2Pencil)]
 
 - <a name="ISF"></a>**[ISF]** Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ghosh_Interactive_Sketch__Fill_Multiclass_Sketch-to-Image_Translation_ICCV_2019_paper.pdf)]
 
-- <a name="APDrawing"></a>**[APDrawing]** APDrawingGAN: Generating Artistic Portrait Drawings From Face Photos With Hierarchical GANs (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf)]
+- <a name="APDrawing"></a>**[APDrawing]** APDrawingGAN: Generating Artistic Portrait Drawings From Face Photos With Hierarchical GANs (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf)] [[code](https://github.com/yiranran/APDrawingGAN)]
 
 ### 2018
 
 - <a name="FSSC2F"></a>**[FSSC2F]** Face Sketch Synthesis from Coarse to Fine (**AAAI**) [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16088/16357)]
 
-- <a name="TextureGAN"></a>**[TextureGAN]** TextureGAN: Controlling Deep Image Synthesis with Texture Patches (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_TextureGAN_Controlling_Deep_CVPR_2018_paper.pdf)]
+- <a name="TextureGAN"></a>**[TextureGAN]** TextureGAN: Controlling Deep Image Synthesis with Texture Patches (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_TextureGAN_Controlling_Deep_CVPR_2018_paper.pdf)] [[code](https://github.com/janesjanes/Pytorch-TextureGAN)]
 
 - <a name="SCC-GAN"></a>**[SCC-GAN]** Learning to Sketch with Shortcut Cycle Consistency (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Learning_to_Sketch_CVPR_2018_paper.pdf)]
 
-- <a name="ContextualGAN"></a>**[ContextualGAN]** Image Generation from Sketch Constraint Using Contextual GAN (**ECCV**) [[paper](https://arxiv.org/pdf/1711.08972.pdf)]
+- <a name="ContextualGAN"></a>**[ContextualGAN]** Image Generation from Sketch Constraint Using Contextual GAN (**ECCV**) [[paper](https://arxiv.org/pdf/1711.08972.pdf)] [[code](https://github.com/elliottwu/sText2Image)]
 
-- <a name="pGAN"></a>**[pGAN]** Robust Face Sketch Synthesis via Generative Adversarial Fusion of Priors and Parametric Sigmoid (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2018/0162.pdf)]
+- <a name="pGAN"></a>**[pGAN]** Robust Face Sketch Synthesis via Generative Adversarial Fusion of Priors and Parametric Sigmoid (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2018/0162.pdf)] [[code](https://github.com/hujiecpp/pGAN)]
 
 - <a name="MRNF"></a>**[MRNF]** Markov Random Neural Fields for Face Sketch Synthesis (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2018/0159.pdf)]
 
-- <a name="PS<sup>2</sup>-MAN"></a>**[PS<sup>2</sup>-MAN]** High-Quality Facial Photo-Sketch Synthesis Using Multi-Adversarial Networks (**FG**) [[paper](https://ieeexplore.ieee.org/document/8373815)]
+- <a name="PS<sup>2</sup>-MAN"></a>**[PS<sup>2</sup>-MAN]** High-Quality Facial Photo-Sketch Synthesis Using Multi-Adversarial Networks (**FG**) [[paper](https://ieeexplore.ieee.org/document/8373815)] [[code](https://github.com/lidan1/PhotoSketchMAN)]
 
 - <a name="DualT"></a>**[DualT]** Dual-Transfer Face Sketch–Photo Synthesis (**TIP**) [[paper](https://ieeexplore.ieee.org/document/8463611)]
 
-- <a name="MDAL"></a>**[MDAL]** Face Sketch Synthesis by Multidomain Adversarial Learning (**TNNLS**) [[paper](https://ieeexplore.ieee.org/document/8478205)]
+- <a name="MDAL"></a>**[MDAL]** Face Sketch Synthesis by Multidomain Adversarial Learning (**TNNLS**) [[paper](https://ieeexplore.ieee.org/document/8478205)] [[code](https://github.com/hujiecpp/MDAL)]
 
 - <a name="FAG-GAN"></a>**[FAG-GAN]** Facial Attributes Guided Deep Sketch-to-Photo Synthesis (**WACVW**) [[paper](https://ieeexplore.ieee.org/document/8347106)]
 
