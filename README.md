@@ -189,7 +189,7 @@
 - <a name="GH-feat"></a>**[GH-feat]** Generative Hierarchical Features from Synthesizing Images (**CVPR**) [[paper](https://arxiv.org/pdf/2007.10379.pdf)] [[code](https://github.com/genforce/ghfeat)]
 - <a name="Divco"></a>**[Divco]** DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network (**CVPR**) [[paper](https://arxiv.org/pdf/2103.07893.pdf)] [[code](https://github.com/ruiliu-ai/DivCo)]
 - <a name="CoCosNet v2"></a>**[CoCosNet v2]** CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_CoCosNet_v2_Full-Resolution_Correspondence_Learning_for_Image_Translation_CVPR_2021_paper.pdf)] [[code](https://github.com/microsoft/CoCosNet-v2)]
-- <a name="SDEdit"></a>[SDEdit] SDEdit: Image Synthesis and Editing with Stochastic Differential Equations (arXiv) [[paper](https://arxiv.org/pdf/2108.01073.pdf)] [[code](https://github.com/ermongroup/SDEdit)]
+- <a name="SDEdit"></a>**[SDEdit]** SDEdit: Image Synthesis and Editing with Stochastic Differential Equations (arXiv) [[paper](https://arxiv.org/pdf/2108.01073.pdf)] [[code](https://github.com/ermongroup/SDEdit)]
 
 ### 2020
 
@@ -282,7 +282,8 @@
 ### 2021
 
 - <a name="MSG-SARL"></a>**[MSG-SARL]** Multi-Scale Gradients Self-Attention Residual Learning for Face Photo-Sketch Transformation (**TIFS**) [[paper](https://ieeexplore.ieee.org/document/9225019)]
-- <a name="GAN Sketching"></a>[**GAN Sketching**] Sketch Your Own GAN (**ICCV**) [[paper](https://arxiv.org/pdf/2108.02774.pdf)]
+- <a name="GAN Sketching"></a>**[GAN Sketching]** Sketch Your Own GAN (**ICCV**) [[paper](https://arxiv.org/pdf/2108.02774.pdf)]
+- <a name="DoodleFormer"></a>**[DoodleFormer]** DoodleFormer: Creative Sketch Drawing with Transformers (**Arxiv**) [[paper](https://arxiv.org/pdf/2112.03258.pdf)]
 
 ### 2020
 
