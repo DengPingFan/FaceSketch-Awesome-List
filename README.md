@@ -183,6 +183,10 @@
 
 ## <a name="Deep Image-to-Image Translation"></a>Deep Image-to-Image Translation
 
+### 2022
+
++ <a name="SofGAN"></a>**[SofGAN]** SofGAN: A Portrait Image Generator with Dynamic Styling (**TOG**) [[paper](https://dl.acm.org/doi/abs/10.1145/3470848?casa_token=7Jw8pKRSaBoAAAAA:l66EiRNumrjIl54plcMB7Aela1ZA0CcmVDIrYuX7TXPcika6tdJH2Nf94un1pk3o3a3u0dV7p-eI1w)] [[code](https://apchenstu.github.io/sofgan)]
+
 ### 2021
 
 - <a name="LLS"></a>**[LLS]** Conditional Generative Modeling via Learning the Latent Space (**ICLR**) [[paper](https://arxiv.org/pdf/2010.03132.pdf)] [[code](https://github.com/samgregoost/cGML)]
