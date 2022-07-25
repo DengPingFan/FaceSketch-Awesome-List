@@ -1,7 +1,7 @@
 # FaceSketch-Awesome-List [![Awesome](README.assets/badge.svg)](https://awesome.re)
 ### News
 
-- [2021.08] **Deep Facial Synthesis: A New Challenge** is coming soon! [[paper](#)] [[code](#)]
+- [2021.12] **Deep Facial Synthesis: A New Challenge** is coming! [[paper](https://arxiv.org/abs/2112.15439)] [[code](https://github.com/DengPingFan/FSGAN)] [[dataset](https://github.com/DengPingFan/FS2K)]
 
 
 
